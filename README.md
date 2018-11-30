@@ -1,4 +1,4 @@
-This python can attack http website.
+This simple python script can attack http website.
 
 
 When attacking it occurs error, that is ok. 
